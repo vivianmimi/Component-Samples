@@ -1,9 +1,5 @@
  
- 
- ## Web Page Component Samples
-
-
- 1.[Oakland book club](https://vivianmimi.github.io/Frontend-Porfolio/project1/oakland-book-club.html)   
+ 1.[Oakland book club](https://vivianmimi.github.io/Component-Samples/project1/oakland-book-club.html)   
  
    Components: 
    
@@ -14,7 +10,7 @@
    * In the table, you could click the hyperlink which would redirect you to real amazon links. 
    * In the form, you could also input value and click submit, it would direct you to a form result page. 
    
- 2.[Oakland book club with CSS style](https://vivianmimi.github.io/Frontend-Porfolio/project2/oakland-book-club.html)
+ 2.[Oakland book club with CSS style](https://vivianmimi.github.io/Component-Samples/project2/oakland-book-club.html)
   
    Description: 
    
@@ -31,7 +27,7 @@
    * On the whole page, any blue color words you could click, it is a hyperlink.
    * In the form, you could also input value and click submit, it would direct you to a form result page.
    
- 3.[Data Grid Test Page](https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html)
+ 3.[Data Grid Test Page](https://vivianmimi.github.io/Component-Samples/project3/testpage.html)
    
    Description: 
    
@@ -39,11 +35,11 @@
    
    Operation: 
    
-   * please download the following [testdata.json](https://vivianmimi.github.io/Frontend-Porfolio/project3/testdata/testdata.json) file, and then you could use that to upload it through the upload file button.
+   * please download the following [testdata.json](https://vivianmimi.github.io/Component-Samples/project3/testdata/testdata.json) file, and then you could use that to upload it through the upload file button.
    * When tables appear, you could click on any of the column, the clicking column would be sorted in ascending order.
    * You could also click pages 1,2,3 to go to next page.
    * When you go to the last page and you still want to click then error message would pop up.
 
 ## Resume
 
-[Resume link](https://vivianmimi.github.io/Frontend-Porfolio/resume.pdf)
+[Resume link](https://vivianmimi.github.io/Component-Samples/resume.pdf)
