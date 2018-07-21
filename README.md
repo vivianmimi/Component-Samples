@@ -1,6 +1,6 @@
 ## PROJECTS
 
-1. Oakland book club
+1. [Oakland book club](https://github.com/vivianmimi/try/edit/master/README.md)
 
 
 
