@@ -1,7 +1,7 @@
  ## Web Page Component Samples
 
  1.[Oakland book club](https://vivianmimi.github.io/Frontend-Porfolio/project1/oakland-book-club.html)   
- ---
+ -
    Url: 
    https://vivianmimi.github.io/Frontend-Porfolio/project1/oakland-book-club.html
    
@@ -15,7 +15,7 @@
    * In the form, you could also input value and click submit, it would direct you to a form result page. 
    
  2.[Oakland book club with CSS style](https://vivianmimi.github.io/Frontend-Porfolio/project2/oakland-book-club.html)
- ---
+ -
    Url: 
    https://vivianmimi.github.io/Frontend-Porfolio/project2/oakland-book-club.html
    
@@ -34,7 +34,8 @@
    * On the whole page, any blue color words you could click, it is a hyperlink.
    * In the form, you could also input value and click submit, it would direct you to a form result page.
    
- 3. [Data Grid Test Page](https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html)
+ 3.[Data Grid Test Page](https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html)
+ -
    Url: 
    https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html
    
@@ -51,4 +52,4 @@
 
 ## Resume
 
-### [Resume link](https://vivianmimi.github.io/Frontend-Porfolio/resume.pdf)
+[Resume link](https://vivianmimi.github.io/Frontend-Porfolio/resume.pdf)
