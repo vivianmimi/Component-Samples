@@ -35,7 +35,7 @@
    
    Operation: 
    
-   * please download the following [testdata.json](https://vivianmimi.github.io/Component-Samples/project3/testdata/testdata.json) file, and then you could use that to upload it through the upload file button.
+   * please copy the content of the following [testdata.json](https://vivianmimi.github.io/Component-Samples/project3/testdata/testdata.json) file and save it as testdata.json file to your local, and then you could upload it through the upload file button on the page and see the effect.
    * When tables appear, you could click on any of the column, the clicking column would be sorted in ascending order.
    * You could also click pages 1,2,3 to go to next page.
    * When you go to the last page and you still want to click then error message would pop up.
