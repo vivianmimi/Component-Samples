@@ -1,43 +1,15 @@
 ## PROJECTS
 
-1. [Oakland book club](https://github.com/vivianmimi/try/blob/master/oakland%20book%20club)   
+1. [Oakland book club](https://github.com/vivianmimi/Frontend-Porfolio/oakland-book-club.html)   
+   Description: this is a single website page which has components of table, form, piechart, hyperlinks. It shows the above ways of how to display data. 
+   In the table, you could click the hyperlink which would redirect you to real amazon links. 
+   In the form, you could also input value and click submit, it would direct you to a form result page. 
+2. [Oakland book club with CSS style]()
+   Description: this is a optimization version of the above oakland book club page. This integrates the CSS style which enriches the webpages to be more colorful.
+3. [Data Grid Test Page]()
+   Description: this test page shows a component of uploading json.data file. After uploading, it would show three different tables in the page. The tables support the function of sorting, paging, and error popup.
+   Instruction: please download the testdata.json file in my github, and then you could use that to upload it through the upload file button.
 
+## Resume
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vivianmimi/try/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivianmimi/try/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Resume link]
