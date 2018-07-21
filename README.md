@@ -8,7 +8,7 @@
    Description: this is a optimization version of the above oakland book club page. This integrates the CSS style which enriches the webpages to be more colorful.
 3. [Data Grid Test Page](https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html)
    Description: this test page shows a component of uploading json.data file. After uploading, it would show three different tables in the page. The tables support the function of sorting, paging, and error popup.
-   Instruction: please download the testdata.json file in my github, and then you could use that to upload it through the upload file button.
+   Instruction: please download the following [testdata.json](https://vivianmimi.github.io/Frontend-Porfolio/project3/testdata/testdata.json) file, and then you could use that to upload it through the upload file button.
 
 ## Resume
 
