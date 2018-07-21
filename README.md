@@ -1,10 +1,8 @@
+ 
  ## Web Page Component Samples
 
  1.[Oakland book club](https://vivianmimi.github.io/Frontend-Porfolio/project1/oakland-book-club.html)   
  
-   Url: 
-   https://vivianmimi.github.io/Frontend-Porfolio/project1/oakland-book-club.html
-   
    Components: 
    
    Include various kinds of components including picture, table, form, piechart, hyperlinks. 
@@ -15,10 +13,7 @@
    * In the form, you could also input value and click submit, it would direct you to a form result page. 
    
  2.[Oakland book club with CSS style](https://vivianmimi.github.io/Frontend-Porfolio/project2/oakland-book-club.html)
-
-   Url: 
-   https://vivianmimi.github.io/Frontend-Porfolio/project2/oakland-book-club.html
-   
+  
    Description: 
    
    this is a optimization version of the above oakland book club page. This integrates the CSS style which     enriches the  webpages to be more colorful with more layout functions.
@@ -35,9 +30,6 @@
    * In the form, you could also input value and click submit, it would direct you to a form result page.
    
  3.[Data Grid Test Page](https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html)
- 
-   Url: 
-   https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html
    
    Description: 
    
