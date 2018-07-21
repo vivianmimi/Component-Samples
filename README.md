@@ -12,4 +12,4 @@
 
 ## Resume
 
-[Resume link]
+[Resume link](https://github.com/vivianmimi/Frontend-Porfolio/resume.pdf)
