@@ -1,6 +1,6 @@
 ## PROJECTS
 
-1. [Oakland book club](https://vivianmimi.github.io/Frontend-Porfolio/oakland-book-club.html)   
+1. [Oakland book club](https://vivianmimi.github.io/Frontend-Porfolio/project1/oakland-book-club.html)   
    Description: this is a single website page which has components of table, form, piechart, hyperlinks. It shows the above ways of how to display data. 
    In the table, you could click the hyperlink which would redirect you to real amazon links. 
    In the form, you could also input value and click submit, it would direct you to a form result page. 
