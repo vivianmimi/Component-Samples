@@ -6,7 +6,7 @@
    In the form, you could also input value and click submit, it would direct you to a form result page. 
 2. [Oakland book club with CSS style](https://vivianmimi.github.io/Frontend-Porfolio/project2/oakland-book-club.html)
    Description: this is a optimization version of the above oakland book club page. This integrates the CSS style which enriches the webpages to be more colorful.
-3. [Data Grid Test Page]()
+3. [Data Grid Test Page](https://vivianmimi.github.io/Frontend-Porfolio/project3/testpage.html)
    Description: this test page shows a component of uploading json.data file. After uploading, it would show three different tables in the page. The tables support the function of sorting, paging, and error popup.
    Instruction: please download the testdata.json file in my github, and then you could use that to upload it through the upload file button.
 
